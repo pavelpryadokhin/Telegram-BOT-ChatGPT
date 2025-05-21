@@ -1,4 +1,9 @@
 # Telegram-BOT-ChatGPT
+
+[Код в colab(подготовка)](https://colab.research.google.com/github/pavelpryadokhin/Telegram-BOT-ChatGPT/blob/main/%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%B4%D0%BB%D1%8F_ChatGpt.ipynb)
+
+
+
 Интеграция ChatGPT в Telegram-бот.
 
 ## Описание
